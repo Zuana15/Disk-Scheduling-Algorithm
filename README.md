@@ -36,12 +36,12 @@ python main.py
 4.Follow the interactive menu to enter your disk parameters and choose which algorithms to visualize!
 
 
-📊 Sample Output
+Sample Output:
 Grid Comparison View
 ![Grid View](comparison_grid.png)
 
 Overlay Comparison View
-![Overlay_View]comparison_overlay.png
+![Overlay_View](comparison_overlay.png)
 
 
 
