@@ -52,7 +52,7 @@ Grid Comparison View
 Overlay Comparison View
 ![Overlay_View](comparison_overlay.png)
 
-
+For a detailed breakdown of the algorithmic challenges faced during development (specifically handling disk boundary conditions in SCAN/C-SCAN), please view the report here:  ![Technical_Report.pdf]
 
 
 
