@@ -11,11 +11,14 @@ Resource Management: Simulating how the OS handles hardware bottlenecks.
 Key Features:
 
 Interactive CLI: Clean, colorized terminal interface built with the rich library.
+
 Dynamic Input: Users can input custom initial head positions and request queues on the fly.
+
 Dual Visualization Modes:
-Generates individual step-plots for specific algorithms.
-Generates a 2x2 Grid View for side-by-side comparison.
-Generates an Overlay View to easily trace path intersections and total seek distances.
+
+1. Generates individual step-plots for specific algorithms.
+2. Generates a 2x2 Grid View for side-by-side comparison.
+3. Generates an Overlay View to easily trace path intersections and total seek distances.
 
 Tech Stack & Architecture:
 
